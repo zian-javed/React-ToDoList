@@ -1,0 +1,13 @@
+[{
+    "id": 1,
+    "task": "Start a React To-do list",
+    "complete": true
+  }, {
+    "id": 2,
+    "task": "Push it to GitHub",
+    "complete": false
+  }, {
+    "id": 3,
+    "task": "Use CSS to style it",
+    "complete": false
+  }]
